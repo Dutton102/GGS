@@ -1,0 +1,5 @@
+f:\documents\visual studio 2010\Projects\GGS\GGS\bin\GGS.dll
+f:\documents\visual studio 2010\Projects\GGS\GGS\bin\GGS.pdb
+f:\documents\visual studio 2010\Projects\GGS\GGS\obj\Debug\ResolveAssemblyReference.cache
+f:\documents\visual studio 2010\Projects\GGS\GGS\obj\Debug\GGS.dll
+f:\documents\visual studio 2010\Projects\GGS\GGS\obj\Debug\GGS.pdb
